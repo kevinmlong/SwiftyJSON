@@ -285,7 +285,6 @@
 					};
 					2E4FEFDA19575BE100351305 = {
 						CreatedOnToolsVersion = 6.0;
-						DevelopmentTeam = M9BLEU3LFV;
 					};
 					2E4FEFE519575BE100351305 = {
 						CreatedOnToolsVersion = 6.0;
@@ -408,7 +407,6 @@
 		030B6CD71A6E16E900C2D4F1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
@@ -432,7 +430,6 @@
 		030B6CD81A6E16E900C2D4F1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
